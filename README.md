@@ -11,3 +11,5 @@ git checkout HEAD -- nome do arquivo (para voltar a versão do arquivo seleciona
 Alterando o README para atualizar no github
 
 nova alteração
+
+Testando git revert
